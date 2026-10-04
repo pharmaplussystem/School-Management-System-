@@ -1,0 +1,6 @@
+{
+  "name": "EduCore School Management System",
+  "description": "Production-ready, offline-first School Management System designed for Ugandan schools with Supabase sync, PWA support, and full academic & financial modules.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
